@@ -5,7 +5,7 @@ A simple desktop weather application built with Python and Tkinter. The applicat
 ## Features
 
 * Search for the current weather of any city
-* Displays the city name and current temperature
+* Displays the city name and current temperature 
 * Displays the "feels like" temperature
 * Shows humidity and wind speed
 * Displays the current weather condition
